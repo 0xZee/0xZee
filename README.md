@@ -19,12 +19,5 @@ just setting up my GitHub profile. 🐦‍⬛
 | **MLOps**      | `Docker`, `Kubernetes`, `MLflow` ..                                 |
 | **Other**      | `Git`, `Jenkins`, `VS Code`, , `Cloud IDE` ..                                               |
 
-## 📊 GitHub Stats
-
-![0xZee's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xZee&show_icons=true&theme=radical)
-
-## 📫 Links
-
-[`Hugging Face`](https://www.linkedin.com/in/0xZee)
 
 
