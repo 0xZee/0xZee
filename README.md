@@ -1,4 +1,4 @@
-# Hello World, I'm `0xZee` ! 👋
+# hello world, I'm `0xZee` ! 👋
 
 just setting up my GitHub profile. 🐦‍⬛
 
@@ -6,7 +6,7 @@ just setting up my GitHub profile. 🐦‍⬛
 
 ## 🚀 About Me
 
-`Large Language Models (LLM)` | `Retrieval-Augmented Generation (RAG)` | `Agentic` | `Streamlit` | `Langchain` | `LangGraph` | `LlamaIndex` | `CrewAI` | `ChromaDB` | `FAISS` | `Pydantic` | `Google BigQuery` |  `Vertex AI` | `MongoDB Atlas Vector Store` | `UnSloth` | `Fine-Tunning` | `HuggingFace` | `Transformers` | `LoRA` | `QLoRA` | `Reasoning Models` | `Reinforcement-Learning` | `MLOps` | `MLFlow`
+`Large Language Models (LLM)` | `Retrieval-Augmented Generation (RAG)` | `Agentic` | `Streamlit` | `Langchain` | `LangGraph` | `LlamaIndex` | `CrewAI` | `ChromaDB` | `FAISS` | `Pydantic` | `Google BigQuery` |  `Vertex AI` | `MongoDB Atlas Vector Store` | `UnSloth` | `Fine-Tunning` | `Ollama` | `HuggingFace` | `Transformers` | `LoRA` | `QLoRA` | `Reasoning Models` | `Reinforcement-Learning` | `MLOps` | `MLFlow`
 
 ## 🛠️ Technologies & Tools
 
