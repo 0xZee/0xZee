@@ -14,7 +14,7 @@ just setting up my GitHub profile. 🐦‍⬛
 |----------------|-------------------------------------------------------------------------------|
 | **Languages**  | `Python`, `JavaScript`, `TypeScript`                         |
 | **Frameworks** | `Jupyter Notebook`, `Streamlit`, `Langchain`, `LangGraph`, `LlamaIndex`, `CrewAI`, `UnSloth`, `Vercel`, `React` .. |
-| **AI & ML**    | `Decision Model (Typesafe JEV)`, `MCP Server`, `Skills`, `Lopps`, `MEMORIES.md`, `Hermes Agent`, `OpenClaw`, `TensorFlow`, `PyTorch`, `Hugging Face Transformers`                         |
+| **AI & ML**    | `Decision Model (Typesafe JEV)`, `MCP Server`, `Skills`, `Lopps`, `AGENTS.md`, `Hermes Agent`, `OpenClaw`, `TensorFlow`, `PyTorch`, `Hugging Face Transformers`                         |
 | **DataOps** | `FastAPI`, `ChromaDB`, `FAISS`, `Pydantic`, `Google BigQuery`, `Vertex AI`, `MongoDB Atlas Vector Store`, `Qdrant`, `Supabase`.. |
 | **MLOps**      | `Unsloth`, `Docker`, `Kubernetes`, `MLflow`, `Vercel` ..                                 |
 | **Other**      | `Git`, `Jenkins`, `VS Code`, `Claude-Code`, `OpenCode`, `Cloud IDE` ..                                               |
